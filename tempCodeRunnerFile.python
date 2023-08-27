@@ -1,0 +1,6 @@
+import math
+a=[math.inf]*6
+a[4]=11
+for i in a:
+    if i is not math.inf:
+        print(i)

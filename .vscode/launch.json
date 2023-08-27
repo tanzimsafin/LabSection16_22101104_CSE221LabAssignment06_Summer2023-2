@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/tanzim_safin/Downloads/LabSection16_22101104_CSE221LabAssignment06_Summer2023 2",
+      "program": "/Users/tanzim_safin/Downloads/LabSection16_22101104_CSE221LabAssignment06_Summer2023 2/build/Debug/outDebug"
+    }
+  ]
+}
